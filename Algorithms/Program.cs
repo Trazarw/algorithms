@@ -1,4 +1,6 @@
-﻿namespace Algorithms
+﻿using AlgorithmsAndDataStructures;
+
+namespace Algorithms
 {
     class Program
     {
