@@ -1,6 +1,6 @@
-﻿using AlgorithmsAndDataStructures;
+﻿using AlgorithmsAndDataStructures.DataStructures;
 
-namespace Algorithms
+namespace AlgorithmsAndDataStructures
 {
     class Program
     {

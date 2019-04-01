@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AlgorithmsAndDataStructures
+namespace AlgorithmsAndDataStructures.DataStructures
 {
     public class Queue
     {

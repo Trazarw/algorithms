@@ -1,4 +1,4 @@
-﻿namespace Algorithms
+﻿namespace AlgorithmsAndDataStructures.Algorithms
 {
     public class BubbleShort
     {
